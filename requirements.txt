@@ -1,0 +1,6 @@
+pillow==8.2.0
+PyMuPDF
+fpdf
+telebot
+python-telegram-bot==13.7
+pdf2image==1.16.0
